@@ -25,3 +25,7 @@ I'm a business and data analyst and a first-generation Colombian graduate of the
 | [**Do Betting Odds Predict Soccer Results?**](https://github.com/david-barrero/soccer-betting-odds) | Across 22,592 matches, odds are accurate for most games but show a favorite-longshot bias that still isn't enough to beat the bookmaker's ~6% margin | SQL, Python (pandas, matplotlib) |
 
 ### 🛠️ Tools
+R · Python · SQL · Excel · JMP · R Markdown / Quarto · Jupyter · Git & GitHub
+
+### 🌎 Languages
+English · Spanish · German (learning)
