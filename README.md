@@ -3,9 +3,12 @@
 I'm a business and data analyst and a first-generation Colombian graduate of the University of Georgia (B.B.A. in Economics, Business Analytics emphasis; minors in Statistics and Sports Management). I like digging into messy data and figuring out what's actually going on behind the numbers.
 
 🌐 **Portfolio:** [david-barrero.github.io](https://david-barrero.github.io)
+
 💼 **LinkedIn:** [linkedin.com/in/david-barrero1](https://www.linkedin.com/in/david-barrero1)
+
 📫 **Email:** davidbarrero0410@gmail.com
-📍 Looking for business and data analyst roles in the Atlanta area
+
+Looking for business and data analyst roles in the Atlanta area
 
 ---
 
