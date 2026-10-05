@@ -8,7 +8,7 @@ I'm a business and data analyst and a first-generation Colombian graduate of the
 
 📫 **Email:** davidbarrero0410@gmail.com
 
-Looking for business and data analyst roles in the Atlanta area
+📍 Looking for business and data analyst roles in the Atlanta area
 
 ---
 
@@ -22,9 +22,4 @@ Looking for business and data analyst roles in the Atlanta area
 | [**The Gender Wage Gap Over a Career**](https://github.com/david-barrero/gender-wage-gap) | A 15% hourly wage gap that grows to 19% after controlling for education, demographics, and household characteristics, using 46,000+ workers from Census CPS data | R, OLS regression |
 | [**Are Hermès Bags a Good Investment?**](https://github.com/david-barrero/hermes-auction-prices) | A client recommendation from 1,255 auction sales: the average price rose, but comparable bags lost about 3.7% of their value per year | R, hedonic regression |
 | [**Predicting Home Prices in Ames, Iowa**](https://github.com/david-barrero/house-price-prediction) | The model with the best in-sample fit overfit; a smaller model cut typical prediction error to about $32,800 on held-out homes | R, OLS, lasso, ridge |
-
-### 🛠️ Tools
-R · Python · SQL · Excel · JMP · R Markdown / Quarto · Git & GitHub
-
-### 🌎 Languages
-English · Spanish · German (learning)
+| [**Do Betting Odds Predict Soccer Results?**](https://github.com/david-barrero/soccer-betting-odds) | Across 22,592 matches, odds are accurate for most games but show a favorite-longshot bias that still isn't enough to beat the
